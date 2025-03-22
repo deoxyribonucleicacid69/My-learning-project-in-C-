@@ -1,0 +1,608 @@
+,Working_Year,Designation,Experience,Employment_Status,Salary_In_Rupees,Employee_Location,Company_Location,Company_Size,Remote_Working_Ratio
+1,2020,Data Scientist,MI,FT,"6,352,272.00",DE,DE,L,0
+2,2020,Machine Learning Scientist,SE,FT,"20,688,070.00",JP,JP,S,0
+3,2020,Big Data Engineer,SE,FT,"8,674,985.00",GB,GB,M,50
+4,2020,Product Data Analyst,MI,FT,"1,591,390.00",HN,HN,S,0
+5,2020,Machine Learning Engineer,SE,FT,"11,935,425.00",US,US,L,50
+6,2020,Data Analyst,EN,FT,"5,729,004.00",US,US,L,100
+7,2020,Lead Data Scientist,SE,FT,"15,118,205.00",US,US,S,100
+8,2020,Data Scientist,MI,FT,"2,843,416.00",HU,HU,L,50
+9,2020,Business Data Analyst,MI,FT,"10,741,883.00",US,US,L,100
+10,2020,Lead Data Engineer,SE,FT,"9,946,188.00",NZ,NZ,S,50
+11,2020,Data Scientist,EN,FT,"4,083,586.00",FR,FR,S,0
+12,2020,Data Scientist,MI,FT,"3,221,053.00",IN,IN,L,0
+13,2020,Data Scientist,EN,FT,"3,176,096.00",FR,FR,M,0
+14,2020,Lead Data Analyst,MI,FT,"6,922,547.00",US,US,L,100
+15,2020,Data Analyst,MI,FT,"6,763,408.00",US,US,L,100
+16,2020,Data Analyst,MI,FT,"636,556.00",PK,PK,L,50
+17,2020,Data Engineer,EN,FT,"3,317,173.00",JP,JP,S,100
+18,2020,Big Data Engineer,SE,FT,"9,074,663.00",PL,GB,S,100
+19,2020,Data Science Consultant,EN,FT,"454,103.00",IN,IN,M,50
+20,2020,Lead Data Engineer,MI,FT,"4,455,892.00",PT,US,M,100
+21,2020,Machine Learning Engineer,MI,FT,"3,447,826.00",CN,CN,M,0
+22,2020,Product Data Analyst,MI,FT,"483,146.00",IN,IN,L,100
+23,2020,Data Engineer,SE,FT,"3,811,299.00",GR,GR,L,50
+24,2020,BI Data Analyst,MI,FT,"7,797,811.00",US,US,M,0
+25,2020,Lead Data Scientist,MI,FT,"9,150,493.00",AE,AE,L,0
+26,2020,Director of Data Science,EX,FT,"25,860,088.00",US,US,L,100
+27,2020,Research Scientist,EN,FT,"3,341,919.00",NL,NL,L,50
+28,2020,Data Engineer,SE,FT,"2,666,454.00",MX,MX,S,0
+29,2020,Business Data Analyst,EN,CT,"7,956,950.00",US,US,L,100
+30,2020,Machine Learning Manager,SE,FT,"9,317,907.00",CA,CA,L,50
+31,2020,Data Engineering Manager,MI,FT,"4,718,710.00",DE,DE,S,100
+32,2020,Big Data Engineer,EN,FT,"5,569,865.00",US,US,L,100
+33,2020,Data Scientist,SE,FT,"5,444,782.00",GR,US,L,100
+34,2020,Research Scientist,MI,FT,"35,806,275.00",US,US,M,0
+35,2020,Data Analyst,MI,FT,"3,720,590.00",FR,FR,L,50
+36,2020,Data Engineer,MI,FT,"5,898,487.00",AT,AT,L,50
+37,2020,Data Science Consultant,MI,FT,"8,195,659.00",US,US,L,100
+38,2020,Machine Learning Engineer,EN,FT,"19,892,375.00",US,US,L,50
+39,2020,Data Analyst,EN,FT,"795,695.00",NG,NG,S,100
+40,2020,Machine Learning Engineer,EN,FT,"10,980,591.00",US,US,S,100
+41,2020,Data Scientist,MI,FT,"3,641,100.00",PH,US,S,100
+42,2020,Data Engineering Manager,EX,FT,"6,352,272.00",ES,ES,L,50
+43,2020,Machine Learning Infrastructure Engineer,MI,FT,"3,992,798.00",PT,PT,M,0
+44,2020,Data Engineer,MI,FT,"8,434,367.00",US,US,L,100
+45,2020,Data Engineer,MI,FT,"8,981,169.00",GB,GB,L,50
+46,2020,ML Engineer,EN,PT,"1,270,407.00",DE,DE,S,100
+47,2020,Data Scientist,MI,FT,"6,123,510.00",GB,GB,S,100
+48,2020,Data Engineer,SE,FT,"14,959,066.00",US,US,L,100
+49,2020,Data Scientist,MI,FT,"8,354,798.00",US,US,L,100
+50,2020,Data Engineer,MI,FT,"5,580,925.00",FR,FR,L,50
+51,2020,Data Analyst,EN,FT,"483,146.00",IN,IN,S,0
+52,2020,Data Analyst,EN,FT,"7,240,825.00",US,US,L,100
+53,2020,AI Scientist,EN,FT,"3,651,922.00",DK,DK,S,50
+54,2020,Data Engineer,EN,FT,"4,355,794.00",PK,DE,L,100
+55,2020,Computer Vision Engineer,SE,FL,"4,774,170.00",RU,US,S,100
+56,2020,Principal Data Scientist,SE,FT,"11,797,054.00",DE,DE,M,100
+57,2020,Data Scientist,MI,FT,"3,085,387.00",ES,ES,M,100
+58,2020,Data Scientist,MI,FT,"9,389,201.00",US,US,M,100
+59,2020,Data Scientist,SE,FT,"9,548,340.00",US,US,L,50
+60,2020,Data Scientist,MI,FT,"11,008,440.00",US,US,M,100
+61,2020,Data Engineer,MI,FT,"8,752,645.00",US,US,L,100
+62,2020,Data Engineer,MI,FT,"10,407,691.00",ES,US,M,100
+63,2020,Data Scientist,EN,PT,"1,724,191.00",IT,IT,S,50
+64,2020,Data Scientist,SE,FT,"32,782,634.00",US,US,L,100
+65,2020,Machine Learning Engineer,SE,FT,"3,629,801.00",HR,HR,S,100
+66,2020,Data Scientist,EN,FT,"4,991,076.00",DE,DE,S,50
+67,2020,Data Scientist,EN,FT,"3,920,230.00",DE,DE,S,0
+68,2020,Data Science Manager,SE,FT,"15,134,119.00",US,US,M,100
+69,2020,Data Scientist,EN,FT,"8,354,798.00",US,US,S,100
+70,2020,Data Scientist,SE,FT,"7,259,682.00",AT,AT,S,0
+71,2020,Data Scientist,MI,FT,"4,991,076.00",FR,LU,S,50
+72,2020,Data Scientist,MI,FT,"3,357,594.00",FR,FR,S,50
+73,2021,Research Scientist,EN,FT,"6,566,712.00",GB,GB,L,50
+74,2021,BI Data Analyst,EX,FT,"11,935,425.00",IN,US,L,100
+75,2021,Head of Data,EX,FT,"18,698,833.00",US,US,L,100
+76,2021,Data Scientist,SE,FT,"4,232,461.00",FR,FR,L,50
+77,2021,BI Data Analyst,MI,FT,"7,956,950.00",US,US,M,100
+78,2021,3D Computer Vision Researcher,MI,PT,"430,391.00",IN,IN,M,50
+79,2021,ML Engineer,MI,CT,"21,483,765.00",US,US,L,100
+80,2021,Data Analyst,EN,FT,"6,365,560.00",US,US,M,100
+81,2021,Data Analytics Engineer,SE,FT,"6,301,666.00",DE,DE,L,100
+82,2021,Data Engineer,MI,FT,"11,139,730.00",US,US,L,100
+83,2021,Applied Data Scientist,MI,FT,"4,315,691.00",GB,CA,L,50
+84,2021,Machine Learning Engineer,MI,FT,"3,762,205.00",ES,ES,S,100
+85,2021,Director of Data Science,EX,FT,"12,227,206.00",IT,PL,L,100
+86,2021,Data Engineer,MI,FT,"2,265,821.00",PL,PL,L,100
+87,2021,Data Analyst,EN,FT,"4,702,717.00",FR,FR,M,50
+88,2021,Data Analytics Engineer,MI,FT,"8,752,645.00",US,US,L,100
+89,2021,Lead Data Analyst,SE,FT,"13,526,815.00",US,US,L,100
+90,2021,Data Analyst,SE,FT,"6,365,560.00",BG,US,S,100
+91,2021,Marketing Data Analyst,SE,FT,"7,054,154.00",GR,DK,L,100
+92,2021,Data Science Consultant,EN,FT,"6,113,563.00",DE,DE,S,100
+93,2021,Lead Data Analyst,MI,FT,"1,560,278.00",IN,IN,L,100
+94,2021,Lead Data Engineer,SE,FT,"21,961,182.00",US,US,L,0
+95,2021,Data Scientist,EN,FT,"2,367,272.00",IN,IN,L,50
+96,2021,Cloud Data Engineer,MI,FT,"7,105,079.00",SG,SG,L,50
+97,2021,AI Scientist,EN,PT,"954,834.00",BR,US,S,100
+98,2021,Financial Data Analyst,MI,FT,"35,806,275.00",US,US,L,100
+99,2021,Computer Vision Software Engineer,EN,FT,"5,569,865.00",US,US,M,100
+100,2021,Computer Vision Software Engineer,MI,FT,"7,618,461.00",DE,US,S,100
+101,2021,Data Analyst,MI,FT,"5,967,713.00",US,US,L,0
+102,2021,Data Engineer,SE,FT,"11,935,425.00",US,US,L,100
+103,2021,BI Data Analyst,MI,FT,"2,885,111.00",HU,US,L,50
+104,2021,Data Analyst,MI,FT,"4,933,309.00",US,US,L,0
+105,2021,Data Scientist,MI,FT,"5,808,574.00",US,US,L,0
+106,2021,Data Analyst,MI,FT,"4,099,341.00",GB,GB,L,50
+107,2021,Research Scientist,MI,FT,"14,914,666.00",CA,CA,L,100
+108,2021,Data Engineer,SE,FT,"9,150,493.00",US,US,S,100
+109,2021,Data Engineer,SE,FT,"11,935,425.00",US,US,M,100
+110,2021,Data Engineer,EN,FT,"2,421,141.00",IN,IN,L,100
+111,2021,Machine Learning Engineer,SE,FT,"7,524,410.00",DE,DE,L,50
+112,2021,Director of Data Engineering,SE,FT,"9,029,229.00",GB,GB,M,100
+113,2021,Lead Data Engineer,SE,FT,"8,208,390.00",GB,GB,S,100
+114,2021,AI Scientist,EN,PT,"954,834.00",PK,US,M,100
+115,2021,Data Engineer,MI,FT,"3,611,739.00",NL,NL,L,100
+116,2021,Machine Learning Scientist,EN,FT,"17,903,138.00",US,US,L,100
+117,2021,Data Scientist,MI,FT,"3,978,475.00",NG,NG,L,100
+118,2021,Data Science Engineer,MI,FT,"3,197,819.00",GR,GR,M,100
+119,2021,Data Analyst,EN,FT,"7,161,255.00",US,US,S,100
+120,2021,Data Engineer,MI,FT,"15,913,900.00",US,US,L,100
+121,2021,Big Data Engineer,MI,FT,"4,774,170.00",ES,RO,M,50
+122,2021,Principal Data Engineer,SE,FT,"15,913,900.00",US,US,M,100
+123,2021,Data Analyst,EN,FT,"3,978,475.00",US,US,M,100
+124,2021,Applied Data Scientist,EN,FT,"8,755,589.00",GB,GB,L,0
+125,2021,Data Analyst,EN,PT,"823,863.00",ES,ES,M,50
+126,2021,Principal Data Scientist,MI,FT,"12,014,995.00",US,US,L,100
+127,2021,Machine Learning Scientist,SE,FT,"9,548,340.00",US,US,S,50
+128,2021,Data Scientist,MI,FT,"753,205.00",IN,IN,S,0
+129,2021,Machine Learning Engineer,EN,FT,"1,591,390.00",IN,IN,S,100
+130,2021,Lead Data Scientist,SE,FT,"3,228,135.00",IN,IN,L,50
+131,2021,Machine Learning Developer,EN,FT,"7,956,950.00",IQ,IQ,S,50
+132,2021,Data Scientist,EN,FT,"3,950,307.00",FR,FR,M,50
+133,2021,Applied Machine Learning Scientist,MI,FT,"3,055,469.00",VN,US,M,100
+134,2021,Computer Vision Engineer,SE,FT,"1,909,668.00",BR,BR,M,100
+135,2021,Data Scientist,EN,FT,"7,956,950.00",US,US,S,0
+136,2021,Data Analyst,MI,FT,"7,161,255.00",US,US,M,100
+137,2021,ML Engineer,MI,FT,"5,069,452.00",JP,JP,S,50
+138,2021,ML Engineer,MI,FT,"6,155,815.00",JP,JP,S,50
+139,2021,Principal Data Scientist,SE,FT,"17,505,290.00",US,US,L,0
+140,2021,Data Scientist,EN,FT,"6,365,560.00",US,US,M,100
+141,2021,Data Analyst,MI,FT,"10,741,883.00",US,US,L,100
+142,2021,Data Science Manager,SE,FT,"19,096,680.00",US,US,L,0
+143,2021,Data Engineering Manager,SE,FT,"11,935,425.00",US,US,L,0
+144,2021,Data Scientist,MI,FT,"6,564,484.00",US,US,S,100
+145,2021,Data Engineer,MI,FT,"7,956,950.00",US,US,L,100
+146,2021,Machine Learning Engineer,SE,FT,"6,583,899.00",BE,BE,M,50
+147,2021,Research Scientist,MI,FT,"4,984,950.00",FR,FR,M,50
+148,2021,Data Engineer,MI,FT,"7,161,255.00",US,US,L,100
+149,2021,Data Engineering Manager,SE,FT,"12,174,134.00",US,US,L,100
+150,2021,Cloud Data Engineer,SE,FT,"12,731,120.00",BR,US,S,100
+151,2021,Director of Data Science,SE,FT,"13,367,676.00",JP,JP,S,0
+152,2021,Data Scientist,MI,FT,"11,935,425.00",US,US,M,100
+153,2021,Data Scientist,MI,FT,"6,029,299.00",CA,CA,L,100
+154,2021,Data Scientist,EN,FT,"1,066,231.00",UA,UA,L,100
+155,2021,Data Science Manager,SE,FT,"11,458,008.00",US,US,L,100
+156,2021,Data Science Engineer,SE,FT,"10,122,911.00",CA,CA,L,50
+157,2021,Data Scientist,MI,FT,"9,473,465.00",SG,IL,M,100
+158,2021,Applied Machine Learning Scientist,MI,FT,"33,657,899.00",US,US,L,50
+159,2021,Data Analytics Manager,SE,FT,"9,548,340.00",US,US,M,100
+160,2021,Machine Learning Engineer,EN,FT,"9,946,188.00",US,US,S,100
+161,2021,Head of Data,EX,FT,"18,300,985.00",RU,RU,L,50
+162,2021,Head of Data Science,EX,FT,"6,763,408.00",RU,RU,M,0
+163,2021,Data Engineer,MI,FT,"2,257,307.00",MT,MT,L,50
+164,2021,Data Science Consultant,EN,FT,"5,079,001.00",DE,DE,L,50
+165,2021,Director of Data Science,EX,FT,"10,346,104.00",DE,DE,M,50
+166,2021,Data Specialist,SE,FT,"13,128,968.00",US,US,L,100
+167,2021,Data Engineer,EN,FT,"6,365,560.00",US,US,L,100
+168,2021,Director of Data Science,EX,FT,"19,892,375.00",US,US,L,0
+169,2021,BI Data Analyst,EN,FT,"4,376,323.00",US,US,S,50
+170,2021,Data Architect,MI,FT,"11,935,425.00",US,US,L,100
+171,2021,Data Architect,MI,FT,"13,526,815.00",US,US,L,100
+172,2021,Data Engineer,MI,FT,"6,566,712.00",GB,GB,L,100
+173,2021,Data Analyst,EN,FT,"4,774,170.00",US,US,S,100
+174,2021,Principal Data Scientist,SE,FT,"18,698,833.00",US,US,L,100
+175,2021,Research Scientist,SE,FT,"4,834,404.00",PT,PT,L,50
+176,2021,Data Engineering Manager,SE,FT,"13,845,093.00",US,US,L,100
+177,2021,Data Scientist,MI,FT,"227,489.00",MX,MX,S,0
+178,2021,Data Scientist,MI,FT,"3,185,804.00",CL,CL,L,100
+179,2021,Machine Learning Engineer,EN,FT,"6,445,130.00",US,US,S,50
+180,2021,Data Scientist,MI,FT,"451,875.00",IN,US,S,100
+181,2021,Big Data Engineer,MI,FT,"1,799,146.00",IN,IN,L,0
+182,2021,Data Scientist,MI,FT,"7,219,659.00",DE,DE,L,50
+183,2021,Data Engineer,MI,FT,"2,069,205.00",RO,US,L,0
+184,2021,Finance Data Analyst,SE,FT,"4,925,034.00",GB,GB,L,50
+185,2021,Machine Learning Scientist,MI,FL,"954,834.00",PK,PK,M,50
+186,2021,Data Engineer,MI,FT,"318,278.00",IR,IR,M,100
+187,2021,Data Analytics Engineer,SE,FT,"3,978,475.00",VN,GB,M,100
+188,2021,Data Science Consultant,EX,FT,"5,549,256.00",FR,ES,S,100
+189,2021,Data Engineer,SE,FT,"6,113,563.00",RO,GB,S,50
+190,2021,Machine Learning Engineer,MI,FT,"5,888,143.00",JP,JP,S,50
+191,2021,Data Science Manager,SE,FT,"12,094,564.00",US,FR,L,100
+192,2021,Machine Learning Engineer,EN,FT,"1,738,116.00",CO,CO,M,50
+193,2021,Big Data Engineer,MI,FT,"1,432,251.00",MD,MD,S,0
+194,2021,Data Science Manager,SE,FT,"13,845,093.00",US,US,L,100
+195,2021,Research Scientist,SE,FT,"7,647,663.00",CA,CA,L,50
+196,2021,Data Scientist,MI,FT,"11,696,717.00",US,US,L,50
+197,2021,BI Data Analyst,EN,FT,"737,768.00",KE,KE,S,100
+198,2021,Machine Learning Engineer,SE,FT,"1,936,881.00",IN,IN,L,100
+199,2021,Data Science Manager,SE,FT,"4,304,233.00",IN,US,L,50
+200,2021,Data Science Consultant,EN,FT,"7,161,255.00",US,US,S,100
+201,2021,Data Scientist,MI,FT,"4,890,898.00",DE,AT,M,50
+202,2021,Machine Learning Infrastructure Engineer,SE,FT,"15,516,053.00",US,US,M,100
+203,2021,Data Scientist,MI,FT,"3,009,716.00",ES,ES,L,100
+204,2021,Research Scientist,SE,FT,"3,978,475.00",FR,US,S,100
+205,2021,Data Scientist,MI,FT,"12,731,120.00",US,US,L,100
+206,2021,Data Scientist,MI,FT,"1,026,526.00",BR,BR,S,0
+207,2021,Machine Learning Engineer,SE,FT,"15,913,900.00",US,US,L,100
+208,2021,Data Engineer,SE,FT,"13,128,968.00",US,US,M,0
+209,2021,Data Engineer,MI,FL,"1,591,390.00",IT,US,L,0
+210,2021,Data Analytics Manager,SE,FT,"9,548,340.00",US,US,L,0
+211,2021,Machine Learning Engineer,MI,FT,"1,975,154.00",SI,SI,L,50
+212,2021,Research Scientist,MI,FT,"4,514,614.00",FR,FR,S,50
+213,2021,Data Engineer,MI,FT,"5,253,338.00",HK,GB,S,50
+214,2021,Big Data Engineer,EN,FT,"468,028.00",IN,CH,L,0
+215,2021,Machine Learning Engineer,EN,FT,"1,975,154.00",DE,DE,M,50
+216,2021,Principal Data Engineer,SE,FT,"14,720,358.00",US,US,L,100
+217,2021,Computer Vision Engineer,EN,PT,"2,276,404.00",DK,DK,S,50
+218,2021,Data Scientist,MI,FT,"7,219,659.00",DE,DE,L,50
+219,2021,Machine Learning Engineer,MI,FT,"7,054,154.00",BE,BE,M,100
+220,2021,Data Analytics Manager,SE,FT,"11,139,730.00",US,US,L,100
+221,2021,Machine Learning Engineer,MI,FT,"3,707,700.00",PL,PL,L,100
+222,2021,Data Scientist,MI,FT,"9,302,789.00",GB,GB,L,50
+223,2021,Data Scientist,MI,FT,"2,690,086.00",IN,IN,M,0
+224,2021,Data Scientist,MI,FT,"4,476,262.00",GB,GB,L,50
+225,2021,Machine Learning Scientist,SE,FT,"17,903,138.00",US,CA,L,100
+226,2021,Principal Data Scientist,EX,CT,"33,100,912.00",US,US,S,100
+227,2021,Data Scientist,SE,FT,"6,981,269.00",CA,CA,S,100
+228,2021,Data Scientist,MI,FT,"7,054,154.00",DE,DE,L,50
+229,2021,Data Scientist,SE,FT,"10,741,883.00",US,US,L,0
+230,2021,Data Analyst,SE,FT,"5,711,976.00",CA,CA,M,100
+231,2021,Big Data Engineer,EN,FT,"1,291,254.00",IN,IN,L,100
+232,2021,ML Engineer,SE,FT,"20,369,792.00",US,US,S,100
+233,2021,Director of Data Engineering,SE,FT,"15,913,900.00",US,US,L,100
+234,2021,Data Analyst,SE,FT,"15,913,900.00",US,US,L,100
+235,2021,Data Architect,MI,FT,"14,322,510.00",US,US,L,100
+236,2021,Head of Data Science,MI,FT,"8,752,645.00",US,US,S,0
+237,2021,Research Scientist,MI,FT,"5,077,330.00",CA,CA,M,100
+238,2021,Data Scientist,MI,FT,"3,724,569.00",ES,ES,M,100
+239,2021,Data Scientist,EN,FT,"318,278.00",VN,VN,M,0
+240,2021,Data Engineer,EN,FT,"1,721,645.00",IN,IN,M,50
+241,2021,Data Scientist,SE,FT,"8,250,641.00",CA,CA,L,100
+242,2021,Data Analyst,MI,FT,"6,365,560.00",US,US,L,100
+243,2021,Data Engineer,MI,FT,"8,752,645.00",US,US,L,100
+244,2021,Data Scientist,SE,FT,"13,128,968.00",US,US,L,100
+245,2021,AI Scientist,EN,FT,"1,436,468.00",IN,AS,S,100
+246,2021,Data Engineer,MI,FT,"5,745,873.00",GB,GB,L,50
+247,2021,Data Scientist,EN,FT,"2,915,665.00",FR,FR,L,50
+248,2021,Data Engineer,MI,FT,"963,030.00",TR,TR,M,0
+249,2021,Data Engineer,SE,FT,"7,661,111.00",GB,GB,L,50
+250,2021,Principal Data Analyst,SE,FT,"13,526,815.00",US,US,M,100
+251,2021,Data Scientist,MI,FT,"9,150,493.00",US,US,L,50
+252,2021,Data Scientist,EN,FT,"7,161,255.00",US,US,S,100
+253,2021,Principal Data Engineer,EX,FT,"47,741,700.00",US,US,L,100
+254,2021,Data Scientist,EN,FT,"2,259,694.00",IN,IN,M,100
+255,2021,Data Analyst,MI,FT,"7,399,964.00",US,US,L,100
+256,2021,Big Data Architect,SE,FT,"7,933,318.00",CA,CA,M,50
+257,2021,Data Engineer,MI,FT,"15,913,900.00",US,US,L,100
+258,2021,Principal Data Scientist,SE,FT,"13,826,155.00",DE,DE,M,100
+259,2021,Machine Learning Engineer,SE,FT,"14,720,358.00",US,US,L,50
+260,2021,Director of Data Science,EX,FT,"11,286,615.00",DE,DE,L,0
+261,2021,Data Scientist,MI,FT,"10,344,035.00",US,US,L,50
+262,2021,Data Analyst,SE,FT,"5,079,001.00",DE,DE,L,50
+263,2021,Data Scientist,MI,FT,"1,345,043.00",IN,IN,S,100
+264,2021,Machine Learning Engineer,SE,FT,"5,272,673.00",IN,IN,L,0
+265,2021,Data Scientist,MI,FT,"2,031,568.00",RS,DE,S,100
+266,2021,Lead Data Engineer,SE,FT,"12,731,120.00",PR,US,S,50
+267,2021,Data Engineer,MI,FT,"7,411,899.00",US,US,M,0
+268,2021,Data Engineer,MI,FT,"8,893,881.00",US,US,M,0
+269,2021,Data Engineer,MI,FT,"2,229,219.00",TR,TR,M,100
+270,2021,Data Engineer,EN,FT,"5,173,052.00",DE,DE,M,50
+271,2021,Data Engineer,EN,FT,"5,768,789.00",US,US,L,100
+272,2021,Computer Vision Engineer,SE,FT,"1,504,421.00",BR,BR,M,0
+273,2021,Data Science Consultant,EN,FT,"6,113,563.00",DE,DE,L,0
+274,2021,Machine Learning Engineer,EN,FT,"6,763,408.00",NL,DE,S,100
+275,2021,Data Scientist,SE,FT,"6,181,277.00",FR,FR,M,50
+276,2021,Data Scientist,EN,FT,"7,956,950.00",US,US,M,100
+277,2021,Data Scientist,EN,FT,"4,615,031.00",US,US,L,50
+278,2021,AI Scientist,SE,FT,"4,376,323.00",ES,ES,L,100
+279,2021,Data Scientist,SE,FT,"1,604,996.00",TR,TR,L,50
+280,2021,Business Data Analyst,EN,FT,"4,702,717.00",LU,LU,L,100
+281,2021,Data Engineer,MI,FT,"8,911,784.00",US,US,L,100
+282,2021,Research Scientist,EN,FT,"7,956,950.00",JE,CN,L,0
+283,2021,Data Engineer,MI,PT,"5,549,256.00",NL,NL,L,100
+284,2021,Staff Data Scientist,SE,CT,"8,354,798.00",US,US,M,100
+285,2021,Research Scientist,MI,FT,"5,569,785.00",CZ,CZ,L,50
+286,2021,Data Science Manager,SE,FT,"7,532,447.00",IN,IN,L,50
+287,2021,Head of Data,SE,FT,"8,182,848.00",SI,SI,L,100
+288,2021,Data Scientist,MI,FT,"8,673,076.00",US,US,L,50
+289,2021,Machine Learning Engineer,MI,FT,"4,063,137.00",IT,IT,L,50
+290,2022,Data Engineer,SE,FT,"10,741,883.00",US,US,M,100
+291,2022,Data Analyst,SE,FT,"12,333,273.00",US,US,M,100
+292,2022,Data Analyst,SE,FT,"9,596,082.00",US,US,M,100
+293,2022,Data Scientist,MI,FT,"10,344,035.00",US,US,M,0
+294,2022,Data Scientist,MI,FT,"7,161,255.00",US,US,M,0
+295,2022,Data Engineer,MI,FT,"13,526,815.00",US,US,M,100
+296,2022,Data Engineer,MI,FT,"11,935,425.00",US,US,M,100
+297,2022,Data Analyst,SE,FT,"8,124,046.00",US,US,M,100
+298,2022,Data Analyst,SE,FT,"6,755,451.00",US,US,M,100
+299,2022,Data Scientist,SE,FT,"10,870,785.00",US,US,M,100
+300,2022,Data Scientist,SE,FT,"7,906,026.00",US,US,M,100
+301,2022,Data Scientist,SE,FT,"9,372,412.00",GB,GB,M,0
+302,2022,Data Scientist,SE,FT,"8,331,086.00",GB,GB,M,0
+303,2022,Data Scientist,SE,FT,"11,617,147.00",US,US,M,100
+304,2022,Data Scientist,SE,FT,"9,787,049.00",US,US,M,100
+305,2022,Data Engineer,EN,FT,"4,165,543.00",GB,GB,M,100
+306,2022,Data Analyst,SE,FT,"7,877,381.00",US,US,M,0
+307,2022,Data Analyst,SE,FT,"9,230,062.00",US,US,M,0
+308,2022,Data Analyst,MI,FT,"8,455,055.00",US,US,M,0
+309,2022,Data Analyst,MI,FT,"10,065,542.00",US,US,M,0
+310,2022,Data Engineer,EX,FT,"19,255,819.00",US,US,M,100
+311,2022,Data Engineer,EX,FT,"15,913,900.00",US,US,M,100
+312,2022,Data Scientist,MI,FT,"5,206,869.00",GB,GB,M,0
+313,2022,Data Scientist,MI,FT,"3,124,137.00",GB,GB,M,0
+314,2022,Data Engineer,MI,FT,"6,248,275.00",GB,GB,M,0
+315,2022,Data Engineer,MI,FT,"4,165,543.00",GB,GB,M,0
+316,2022,Data Scientist,SE,FT,"13,146,473.00",US,US,M,100
+317,2022,Data Engineer,EN,FT,"3,644,840.00",GB,GB,M,100
+318,2022,Data Scientist,SE,FT,"9,561,071.00",US,US,M,100
+319,2022,Data Analyst,SE,FT,"7,186,717.00",US,US,M,100
+320,2022,Data Engineer,SE,FT,"14,476,875.00",US,US,M,0
+321,2022,Data Engineer,SE,FT,"10,528,636.00",US,US,M,0
+322,2022,Data Engineer,SE,FT,"17,514,043.00",US,US,M,0
+323,2022,Data Engineer,SE,FT,"12,737,486.00",US,US,M,0
+324,2022,Data Scientist,SE,FT,"14,322,510.00",US,US,L,0
+325,2022,Data Scientist,SE,FT,"9,548,340.00",US,US,L,0
+326,2022,Data Analyst,SE,FT,"9,881,736.00",US,US,M,100
+327,2022,Data Analyst,EX,FT,"10,344,035.00",US,US,M,100
+328,2022,Data Analyst,EX,FT,"8,752,645.00",US,US,M,100
+329,2022,Data Analyst,SE,FT,"13,526,815.00",US,US,M,100
+330,2022,Data Analyst,MI,FT,"9,190,277.00",US,US,M,100
+331,2022,Data Analyst,SE,FT,"8,983,397.00",US,US,M,100
+332,2022,Data Analyst,SE,FT,"7,186,717.00",US,US,M,100
+333,2022,Data Analyst,SE,FT,"8,983,397.00",US,US,M,100
+334,2022,Data Analyst,SE,FT,"7,186,717.00",US,US,M,100
+335,2022,Data Engineer,SE,FT,"13,160,795.00",US,US,M,100
+336,2022,Data Engineer,SE,FT,"10,528,636.00",US,US,M,100
+337,2022,Data Analyst,MI,FT,"13,288,107.00",US,US,M,100
+338,2022,Data Engineer,SE,FT,"19,407,001.00",US,US,M,100
+339,2022,Data Analyst,SE,FT,"10,869,194.00",US,US,M,100
+340,2022,Data Analyst,SE,FT,"8,695,355.00",US,US,M,100
+341,2022,Data Engineer,SE,FT,"10,254,519.00",US,US,M,100
+342,2022,Data Engineer,SE,FT,"7,455,662.00",US,US,M,100
+343,2022,Head of Data Science,EX,FT,"17,823,568.00",US,US,M,100
+344,2022,Head of Data Science,EX,FT,"13,357,730.00",US,US,M,100
+345,2022,Analytics Engineer,EX,FT,"13,924,663.00",US,US,M,100
+346,2022,Data Engineer,SE,FT,"12,460,584.00",US,US,M,100
+347,2022,Data Engineer,SE,FT,"8,657,162.00",US,US,M,0
+348,2022,Data Scientist,SE,FT,"7,602,866.00",US,US,M,0
+349,2022,Data Engineer,SE,FT,"8,991,354.00",US,US,L,0
+350,2022,Data Analyst,SE,FT,"10,741,883.00",US,US,M,100
+351,2022,Data Science Manager,SE,FT,"12,837,902.00",US,US,M,100
+352,2022,Data Science Manager,SE,FT,"10,912,241.00",US,US,M,100
+353,2022,Data Scientist,SE,FT,"13,288,107.00",US,US,M,100
+354,2022,Data Scientist,SE,FT,"9,787,049.00",US,US,M,100
+355,2022,Data Engineer,SE,FT,"6,248,275.00",GB,GB,M,0
+356,2022,Data Engineer,SE,FT,"5,206,869.00",GB,GB,M,0
+357,2022,Data Scientist,SE,FT,"11,935,425.00",US,US,M,0
+358,2022,Data Scientist,SE,FT,"16,828,949.00",US,US,M,100
+359,2022,Data Architect,SE,FT,"15,309,172.00",CA,CA,M,100
+360,2022,Data Architect,SE,FT,"7,216,954.00",CA,CA,M,100
+361,2022,Data Analyst,SE,FT,"10,344,035.00",CA,CA,M,100
+362,2022,Data Analyst,SE,FT,"4,877,610.00",CA,CA,M,100
+363,2022,Data Analyst,SE,FT,"10,344,035.00",CA,CA,M,100
+364,2022,Data Analyst,SE,FT,"4,877,610.00",CA,CA,M,100
+365,2022,Data Engineer,SE,FT,"12,731,120.00",US,US,L,0
+366,2022,Data Scientist,SE,FT,"11,028,333.00",US,US,M,100
+367,2022,Data Engineer,SE,FT,"10,821,452.00",US,US,M,0
+368,2022,Data Analyst,MI,FT,"4,615,031.00",US,US,S,0
+369,2022,Analytics Engineer,EX,FT,"10,741,883.00",US,US,M,100
+370,2022,Data Scientist,SE,FT,"13,526,815.00",US,US,M,100
+371,2022,Data Scientist,SE,FT,"9,787,049.00",US,US,M,100
+372,2022,Machine Learning Engineer,SE,FT,"15,090,356.00",US,US,M,0
+373,2022,Machine Learning Engineer,SE,FT,"13,128,649.00",US,US,M,0
+374,2022,ETL Developer,MI,FT,"4,372,901.00",GR,GR,M,0
+375,2022,ETL Developer,MI,FT,"4,372,901.00",GR,GR,M,0
+376,2022,Lead Data Engineer,EX,FT,"9,404,080.00",CA,CA,S,100
+377,2022,Data Analyst,SE,FT,"10,503,174.00",US,US,M,0
+378,2022,Data Engineer,SE,FT,"13,160,795.00",US,US,M,100
+379,2022,Data Architect,SE,FT,"16,612,122.00",US,US,M,100
+380,2022,Data Architect,SE,FT,"11,760,372.00",US,US,M,100
+381,2022,Data Engineer,SE,FT,"10,900,544.00",US,US,M,100
+382,2022,Data Engineer,SE,FT,"8,081,874.00",US,US,M,100
+383,2022,Data Analyst,SE,FT,"10,254,519.00",US,US,M,100
+384,2022,Data Analyst,SE,FT,"7,455,662.00",US,US,M,100
+385,2022,Head of Machine Learning,EX,FT,"6,289,094.00",IN,IN,L,50
+386,2022,Data Engineer,SE,FT,"10,528,636.00",US,US,M,100
+387,2022,Machine Learning Engineer,EN,FT,"2,967,942.00",GB,GB,L,100
+388,2022,Data Analyst,SE,FT,"13,049,398.00",US,US,M,0
+389,2022,Data Engineer,SE,FT,"12,333,273.00",US,US,M,100
+390,2022,Machine Learning Engineer,MI,FT,"9,893,115.00",GB,GB,M,0
+391,2022,Machine Learning Engineer,MI,FT,"7,810,383.00",GB,GB,M,0
+392,2022,AI Scientist,MI,FT,"9,548,340.00",US,US,M,0
+393,2022,Data Analyst,SE,FT,"8,983,397.00",US,US,M,100
+394,2022,Data Analyst,SE,FT,"7,186,717.00",US,US,M,100
+395,2022,Data Analytics Manager,SE,FT,"11,537,578.00",US,US,M,100
+396,2022,Data Analytics Manager,SE,FT,"8,386,625.00",US,US,M,100
+397,2022,Machine Learning Engineer,MI,FT,"6,996,705.00",FR,DE,M,100
+398,2022,Data Engineer,MI,FT,"9,372,412.00",GB,GB,M,0
+399,2022,Data Scientist,SE,FT,"17,131,313.00",US,US,L,100
+400,2022,Data Scientist,SE,FT,"12,587,895.00",US,US,L,100
+401,2022,Data Engineer,SE,FT,"16,637,982.00",US,US,L,100
+402,2022,Data Engineer,SE,FT,"12,301,445.00",US,US,L,100
+403,2022,Data Analyst,SE,FT,"9,224,810.00",US,US,M,0
+404,2022,Data Analyst,SE,FT,"6,498,123.00",US,US,M,0
+405,2022,Data Engineer,SE,FT,"13,924,663.00",US,US,M,100
+406,2022,Data Engineer,MI,FT,"7,810,383.00",GB,GB,M,0
+407,2022,Data Analyst,MI,FT,"4,615,031.00",US,US,S,0
+408,2022,Data Engineer,SE,FT,"14,608,960.00",US,US,L,100
+409,2022,Data Analyst,MI,FT,"4,165,543.00",GB,GB,M,100
+410,2022,Data Scientist,SE,FT,"14,322,510.00",US,US,M,100
+411,2022,Data Scientist,MI,FT,"5,727,572.00",GB,GB,M,0
+412,2022,Data Scientist,MI,FT,"3,644,840.00",GB,GB,M,0
+413,2022,Data Engineer,MI,FT,"5,247,529.00",GR,GR,M,100
+414,2022,Data Engineer,MI,FT,"3,935,587.00",GR,GR,M,100
+415,2022,Data Engineer,MI,FT,"6,248,275.00",GB,GB,M,100
+416,2022,Data Engineer,MI,FT,"4,686,166.00",GB,GB,M,100
+417,2022,Data Scientist,SE,FT,"20,688,070.00",US,US,M,100
+418,2022,Data Science Engineer,SE,FT,"4,774,170.00",AR,MX,L,100
+419,2022,Data Engineer,MI,FT,"5,084,491.00",US,US,M,0
+420,2022,Machine Learning Scientist,MI,FT,"12,731,120.00",US,US,L,100
+421,2022,Machine Learning Scientist,MI,FT,"8,935,655.00",US,US,L,100
+422,2022,Data Science Manager,MI,FT,"19,176,250.00",US,US,M,100
+423,2022,Data Science Manager,MI,FT,"12,651,551.00",US,US,M,100
+424,2022,Data Scientist,SE,FT,"14,322,510.00",US,US,M,0
+425,2022,Data Scientist,SE,FT,"6,365,560.00",US,US,M,0
+426,2022,Data Engineer,MI,FT,"6,596,312.00",US,US,M,0
+427,2022,Data Engineer,SE,FT,"8,020,606.00",US,US,L,100
+428,2022,Data Engineer,MI,FT,"3,935,587.00",ES,ES,M,100
+429,2022,Data Scientist,SE,FT,"11,171,558.00",US,US,L,0
+430,2022,Data Analyst,MI,FT,"3,124,137.00",GB,GB,M,100
+431,2022,Data Analyst,MI,FT,"3,498,353.00",ES,ES,M,100
+432,2022,Data Analyst,MI,FT,"2,623,725.00",ES,ES,M,100
+433,2022,Data Engineer,MI,FT,"6,996,705.00",ES,ES,M,100
+434,2022,Data Engineer,MI,FT,"6,122,077.00",ES,ES,M,100
+435,2022,Data Engineer,MI,FT,"8,331,086.00",GB,GB,M,100
+436,2022,Data Engineer,MI,FT,"7,289,680.00",GB,GB,M,100
+437,2022,Data Engineer,MI,FT,"5,247,529.00",ES,ES,M,100
+438,2022,Data Engineer,MI,FT,"6,996,705.00",GR,GR,M,100
+439,2022,Machine Learning Engineer,SE,FT,"15,090,356.00",US,US,M,0
+440,2022,Machine Learning Engineer,SE,FT,"13,128,649.00",US,US,M,0
+441,2022,Data Analyst,MI,FT,"3,498,353.00",GR,GR,M,100
+442,2022,Data Analyst,MI,FT,"2,623,725.00",GR,GR,M,100
+443,2022,Data Engineer,MI,FT,"7,810,383.00",GB,GB,M,100
+444,2022,Data Engineer,MI,FT,"6,248,275.00",GB,GB,M,100
+445,2022,Data Scientist,SE,FT,"17,131,313.00",US,US,L,0
+446,2022,Data Engineer,MI,FT,"6,122,077.00",GR,GR,M,100
+447,2022,Data Engineer,SE,FT,"16,637,982.00",US,US,L,100
+448,2022,Data Engineer,SE,FT,"12,301,445.00",US,US,L,100
+449,2022,Data Engineer,SE,FT,"14,322,510.00",US,US,M,100
+450,2022,ML Engineer,EN,FT,"1,749,176.00",PT,PT,L,100
+451,2022,Data Engineer,SE,FT,"6,365,560.00",US,US,M,100
+452,2022,Machine Learning Developer,MI,FT,"6,269,360.00",CA,CA,M,100
+453,2022,Director of Data Science,EX,FT,"15,673,521.00",CA,CA,L,50
+454,2022,Machine Learning Engineer,MI,FT,"9,548,340.00",US,US,S,100
+455,2022,Computer Vision Engineer,EN,FT,"9,946,188.00",US,US,M,0
+456,2022,NLP Engineer,MI,FT,"2,962,850.00",US,US,L,50
+457,2022,Data Engineer,SE,FT,"8,354,798.00",US,US,M,100
+458,2022,Lead Machine Learning Engineer,SE,FT,"6,996,705.00",DE,DE,M,0
+459,2022,Business Data Analyst,MI,FT,"1,467,421.00",IN,IN,M,100
+460,2022,Data Scientist,MI,FT,"2,515,590.00",IN,IN,L,100
+461,2022,Machine Learning Infrastructure Engineer,MI,FT,"4,635,321.00",PT,PT,L,50
+462,2022,Financial Data Analyst,EN,FT,"7,956,950.00",US,US,L,50
+463,2022,Data Engineer,MI,PT,"4,372,901.00",DE,DE,L,50
+464,2022,Data Scientist,EN,FT,"1,467,421.00",IN,IN,M,100
+465,2022,Principal Data Scientist,SE,FT,"12,943,889.00",DE,DE,M,100
+466,2022,Data Engineer,EN,FT,"9,548,340.00",US,US,M,100
+467,2022,Research Scientist,SE,FT,"11,458,008.00",US,US,L,50
+468,2022,Data Scientist,SE,FT,"8,346,045.00",US,US,M,100
+469,2022,Data Engineer,SE,FT,"7,956,950.00",US,US,M,100
+470,2022,Data Scientist,SE,FT,"11,139,730.00",US,US,M,100
+471,2022,Data Analyst,MI,FT,"10,741,883.00",US,US,M,100
+472,2022,Data Analyst,MI,FT,"3,978,475.00",US,US,M,100
+473,2022,Data Scientist,SE,FT,"17,505,290.00",US,US,M,100
+474,2022,Data Scientist,SE,FT,"11,139,730.00",US,US,M,100
+475,2022,Data Scientist,MI,FT,"14,579,360.00",GB,GB,M,0
+476,2022,Data Scientist,MI,FT,"7,289,680.00",GB,GB,M,0
+477,2022,Data Scientist,SE,FT,"14,728,314.00",US,US,M,100
+478,2022,Machine Learning Engineer,SE,FT,"17,505,290.00",US,US,M,100
+479,2022,Data Scientist,MI,FT,"15,913,900.00",US,US,M,100
+480,2022,Data Scientist,MI,FT,"9,548,340.00",US,US,M,100
+481,2022,Machine Learning Engineer,SE,FT,"9,548,340.00",AE,AE,S,100
+482,2022,Machine Learning Engineer,SE,FT,"5,172,018.00",AE,AE,S,100
+483,2022,Data Engineer,EX,FT,"25,780,518.00",US,US,M,100
+484,2022,Data Engineer,EX,FT,"17,187,012.00",US,US,M,100
+485,2022,Data Engineer,SE,FT,"16,709,595.00",US,US,M,100
+486,2022,Machine Learning Engineer,SE,FT,"9,548,340.00",US,US,M,100
+487,2022,Data Scientist,SE,FT,"18,300,985.00",US,US,M,100
+488,2022,Data Scientist,EN,PT,"7,956,950.00",DZ,DZ,M,50
+489,2022,Data Scientist,MI,FL,"7,956,950.00",CA,US,M,100
+490,2022,Applied Machine Learning Scientist,EN,CT,"2,536,278.00",TN,CZ,M,100
+491,2022,Head of Data,SE,FT,"15,913,900.00",MY,US,M,100
+492,2022,Principal Data Analyst,MI,FT,"5,967,713.00",CA,CA,S,100
+493,2022,Data Scientist,MI,FT,"2,831,879.00",PL,PL,L,100
+494,2022,Machine Learning Developer,SE,FT,"6,269,360.00",CA,CA,M,100
+495,2022,Data Scientist,SE,FT,"7,956,950.00",BR,US,M,100
+496,2022,Machine Learning Scientist,MI,FT,"12,174,134.00",US,US,M,50
+497,2022,Data Engineer,EN,FT,"4,617,816.00",PK,DE,M,100
+498,2022,Data Scientist,SE,FT,"13,128,968.00",US,US,M,100
+499,2022,Research Scientist,SE,FT,"7,433,940.00",FR,FR,L,50
+500,2022,Data Scientist,EN,FT,"4,169,124.00",CA,CA,L,100
+501,2022,Machine Learning Engineer,SE,FT,"4,985,109.00",NL,NL,L,100
+502,2022,Head of Data,MI,FT,"2,623,725.00",EE,EE,S,100
+503,2022,Data Scientist,EN,FT,"3,182,780.00",JP,MY,L,100
+504,2022,Machine Learning Engineer,MI,FT,"6,956,364.00",AU,AU,L,100
+505,2022,Data Engineer,SE,FT,"9,150,493.00",US,US,M,100
+506,2022,Data Scientist,EN,FT,"6,898,914.00",AU,AU,M,50
+507,2022,Applied Machine Learning Scientist,MI,FT,"5,967,713.00",BO,US,L,100
+508,2022,Research Scientist,MI,FT,"5,160,003.00",AT,AT,L,0
+509,2022,Research Scientist,EN,FT,"9,548,340.00",US,US,L,100
+510,2022,Applied Data Scientist,MI,FT,"12,492,412.00",US,US,L,100
+511,2022,Computer Vision Software Engineer,EN,FT,"11,935,425.00",AU,AU,S,100
+512,2022,Business Data Analyst,MI,FT,"5,642,432.00",CA,CA,L,50
+513,2022,Data Engineer,EN,FT,"5,172,018.00",US,US,S,100
+514,2022,Machine Learning Engineer,SE,FT,"5,684,763.00",IE,IE,S,100
+515,2022,Data Analytics Engineer,EN,FT,"1,591,390.00",PK,PK,M,0
+516,2022,Data Scientist,MI,FT,"3,819,336.00",RU,US,S,100
+517,2022,Data Science Manager,SE,FT,"12,134,349.00",US,US,M,100
+518,2022,Data Engineer,MI,FT,"5,422,423.00",FR,FR,M,100
+519,2022,Data Scientist,MI,FT,"9,735,010.00",CH,CH,L,0
+520,2022,Applied Data Scientist,SE,FT,"30,236,410.00",US,US,L,100
+521,2022,Data Scientist,MI,FT,"5,517,031.00",CA,CA,M,100
+522,2022,Computer Vision Engineer,EN,FT,"795,695.00",PT,LU,M,100
+523,2022,Data Analyst,MI,FT,"1,591,390.00",GR,GR,S,100
+524,2022,Data Analytics Lead,SE,FT,"32,225,648.00",US,US,L,100
+525,2022,Data Scientist,MI,FT,"10,741,883.00",US,US,L,100
+526,2022,Applied Data Scientist,SE,FT,"14,083,802.00",US,US,L,100
+527,2022,Data Scientist,MI,FT,"6,206,421.00",US,US,M,100
+528,2022,Data Analyst,SE,FT,"10,741,883.00",US,US,M,100
+529,2022,Data Analyst,SE,FT,"7,956,950.00",US,US,M,100
+530,2022,Data Analyst,SE,FT,"7,186,717.00",US,US,M,100
+531,2022,Data Analyst,MI,FT,"6,763,408.00",CA,CA,M,0
+532,2022,Data Analyst,MI,FT,"5,967,713.00",CA,CA,M,0
+533,2022,Machine Learning Engineer,SE,FT,"17,027,873.00",US,US,M,100
+534,2022,Machine Learning Engineer,SE,FT,"15,325,086.00",US,US,M,100
+535,2022,Data Architect,SE,FT,"21,197,315.00",US,US,M,100
+536,2022,Data Architect,SE,FT,"16,957,852.00",US,US,M,100
+537,2022,Data Analyst,SE,FT,"8,983,397.00",US,US,M,100
+538,2022,Data Engineer,SE,FT,"12,333,273.00",US,US,M,100
+539,2022,Data Scientist,MI,FT,"11,243,170.00",US,US,M,0
+540,2022,Data Scientist,MI,FT,"8,124,046.00",US,US,M,0
+541,2022,Data Analyst,SE,FT,"9,224,810.00",US,US,M,100
+542,2022,Data Analyst,SE,FT,"6,498,123.00",US,US,M,100
+543,2022,Data Engineer,MI,FT,"16,446,936.00",US,US,M,0
+544,2022,Data Engineer,MI,FT,"7,885,337.00",US,US,M,0
+545,2022,Data Engineer,SE,FT,"10,344,035.00",US,US,M,100
+546,2022,Data Engineer,SE,FT,"9,150,493.00",US,US,M,100
+547,2022,Data Engineer,SE,FT,"8,792,430.00",US,US,M,100
+548,2022,Data Engineer,SE,FT,"10,344,035.00",US,US,M,100
+549,2022,Data Analyst,SE,FT,"7,881,359.00",US,US,M,100
+550,2022,Data Engineer,SE,FT,"12,731,120.00",US,US,M,100
+551,2022,Data Scientist,SE,FT,"16,335,618.00",US,US,L,0
+552,2022,Data Scientist,SE,FT,"11,171,558.00",US,US,L,0
+553,2022,Data Scientist,SE,FT,"14,004,232.00",US,US,M,100
+554,2022,Data Scientist,SE,FT,"11,458,008.00",US,US,M,100
+555,2022,Data Engineer,SE,FT,"15,921,857.00",US,US,M,100
+556,2022,Data Engineer,SE,FT,"12,731,120.00",US,US,M,100
+557,2022,Data Engineer,SE,FT,"11,537,578.00",US,US,M,100
+558,2022,Data Engineer,SE,FT,"5,609,650.00",US,US,M,0
+559,2022,Data Scientist,SE,FT,"16,335,618.00",US,US,M,0
+560,2022,Data Scientist,SE,FT,"11,171,558.00",US,US,M,0
+561,2022,Analytics Engineer,SE,FT,"16,335,618.00",US,US,M,0
+562,2022,Analytics Engineer,SE,FT,"14,696,487.00",US,US,M,0
+563,2022,Data Engineer,SE,FT,"13,932,619.00",US,US,M,100
+564,2022,Data Engineer,SE,FT,"11,159,622.00",US,US,M,100
+565,2022,Data Analyst,SE,FT,"9,241,997.00",US,US,M,100
+566,2022,Data Engineer,SE,FT,"4,296,753.00",US,US,M,0
+567,2022,Data Analyst,SE,FT,"13,526,815.00",US,US,M,100
+568,2022,Data Analyst,MI,FT,"5,206,869.00",GB,GB,M,0
+569,2022,Data Analyst,SE,FT,"6,365,560.00",US,US,M,100
+570,2022,Data Scientist,SE,FT,"11,139,730.00",US,US,M,100
+571,2022,Data Scientist,SE,FT,"16,709,595.00",US,US,M,100
+572,2022,Data Scientist,SE,FT,"11,139,730.00",US,US,M,100
+573,2022,Data Analyst,SE,FT,"7,956,950.00",US,US,M,100
+574,2022,Data Analyst,SE,FT,"5,490,296.00",US,US,M,100
+575,2022,Data Scientist,SE,FT,"16,709,595.00",US,US,M,100
+576,2022,Data Scientist,SE,FT,"11,139,730.00",US,US,M,100
+577,2022,Data Scientist,SE,FT,"16,709,595.00",US,US,M,100
+578,2022,Data Analyst,SE,FT,"11,941,393.00",US,US,M,100
+579,2022,Data Engineer,SE,FT,"7,956,950.00",US,US,M,100
+580,2022,Data Engineer,SE,FT,"1,989,238.00",US,US,M,100
+581,2022,Data Analyst,SE,FT,"10,065,542.00",US,US,M,100
+582,2022,Data Analyst,SE,FT,"8,455,055.00",US,US,M,100
+583,2022,Data Engineer,SE,FT,"17,514,043.00",US,US,M,100
+584,2022,Data Engineer,SE,FT,"12,737,486.00",US,US,M,100
+585,2022,Data Analyst,SE,FT,"8,354,798.00",US,US,M,100
+586,2022,Data Analyst,SE,FT,"8,826,247.00",US,US,M,100
+587,2022,Data Analyst,MI,FT,"3,644,840.00",GB,GB,M,0
+588,2022,Data Scientist,SE,FT,"11,139,730.00",US,US,M,100
+589,2022,Data Analyst,SE,FT,"7,877,381.00",US,US,M,0
+590,2022,Data Analyst,SE,FT,"4,774,170.00",US,US,M,100
+591,2022,Data Architect,SE,FT,"15,322,221.00",US,US,M,100
+592,2022,Data Architect,SE,FT,"11,525,960.00",US,US,M,100
+593,2022,Data Scientist,SE,FT,"18,300,985.00",US,US,M,100
+594,2022,Data Scientist,SE,FT,"11,935,425.00",US,US,M,100
+595,2022,Data Analytics Manager,SE,FT,"11,956,113.00",US,US,M,100
+596,2022,Data Analytics Manager,SE,FT,"8,695,355.00",US,US,M,100
+597,2022,Data Scientist,SE,FT,"16,709,595.00",US,US,M,100
+598,2022,Data Analyst,SE,FT,"13,526,815.00",US,US,M,100
+599,2022,Data Scientist,MI,FT,"12,731,120.00",US,US,M,100
+600,2022,Data Scientist,MI,FT,"10,344,035.00",US,US,M,100
+601,2022,Data Analyst,EN,FT,"5,331,157.00",CA,CA,M,0
+602,2022,Data Analyst,EN,FT,"4,137,614.00",CA,CA,M,0
+603,2022,Data Engineer,SE,FT,"12,253,703.00",US,US,M,100
+604,2022,Data Engineer,SE,FT,"10,025,757.00",US,US,M,100
+605,2022,Data Analyst,SE,FT,"10,264,466.00",US,US,M,0
+606,2022,Data Analyst,SE,FT,"11,935,425.00",US,US,M,100
+607,2022,AI Scientist,MI,FT,"15,913,900.00",IN,US,L,100

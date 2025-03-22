@@ -1,0 +1,14 @@
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.AssemblyInfoInputs.cache
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.AssemblyInfo.cs
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.csproj.CoreCompileInputs.cache
+D:\Games\артем адвентуер\проджект2\bin\Debug\net8.0\проджект2.exe
+D:\Games\артем адвентуер\проджект2\bin\Debug\net8.0\проджект2.deps.json
+D:\Games\артем адвентуер\проджект2\bin\Debug\net8.0\проджект2.runtimeconfig.json
+D:\Games\артем адвентуер\проджект2\bin\Debug\net8.0\проджект2.dll
+D:\Games\артем адвентуер\проджект2\bin\Debug\net8.0\проджект2.pdb
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.dll
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\refint\проджект2.dll
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.pdb
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\проджект2.genruntimeconfig.cache
+D:\Games\артем адвентуер\проджект2\obj\Debug\net8.0\ref\проджект2.dll
